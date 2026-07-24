@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Screenshot Bot",
+  "description": "System App that connects to Telegram to report device info and take screenshots",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

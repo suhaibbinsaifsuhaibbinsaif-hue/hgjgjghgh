@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cloud Screenshot Bot</string>
+    <string name="bot_service_channel_id">bot_service_channel</string>
+    <string name="bot_service_channel_name">Telegram Bot Service</string>
+</resources>
